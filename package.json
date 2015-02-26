@@ -1,0 +1,33 @@
+{
+  "name": "basic-passing",
+  "version": "1.0.0",
+  "description": "Super basic test pass fail, with reporting options",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/schme16/basic-passing.git"
+  },
+  "keywords": [
+    "assert",
+    "passing",
+    "nodejs",
+    "iojs",
+    "validation",
+    "types",
+    "primitives"
+  ],
+  "author": "Shane Gadsby <schme16@gmail.com>",
+  "license": "GNU GPL 3.0",
+  "bugs": {
+    "url": "https://github.com/schme16/basic-passing/issues"
+  },
+  "homepage": "https://github.com/schme16/basic-passing",
+  "dependencies": {
+    "colors": "^1.0.3"
+  },
+  "devDependencies": {
+  }
+}
